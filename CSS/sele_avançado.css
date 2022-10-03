@@ -1,0 +1,10 @@
+h1 + h4 {
+  border: 4px dashed;
+}
+
+a[herf="/recibo"] {
+  color: orange;
+}
+li:nth-of-type(odd) {
+  color: goldenrod;
+}

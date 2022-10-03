@@ -1,0 +1,19 @@
+li {
+  color: blue;
+  border-color: yellow;
+  border-width: 5px;
+  border-style: solid;
+}
+
+h1 {
+  color: green;
+  font-size: 40px;
+  background-color: brown;
+}
+
+body {
+  background-color: grey;
+  background-image: url("https://i.imgur.com/vUvgtSf.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

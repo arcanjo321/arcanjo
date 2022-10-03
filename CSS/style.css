@@ -1,0 +1,14 @@
+.moon {
+  color: yellow;
+}
+h1 {
+  font-size: 50px;
+  color: purple;
+  background-color: yellow;
+  border-color: purple;
+  border-width: 2px;
+  border-style: dashed;
+}
+body {
+  background-color: rgb(68, 68, 143);
+}
